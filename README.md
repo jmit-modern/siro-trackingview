@@ -4,6 +4,13 @@ Firebase functions to track the user view counts for the recordings
 
 ## How to run emulator
 
+Before running the emulator you should compile the script first.
+
+```
+cd functions && npm run build
+
+```
+
 Run the command below to run the eumulator.
 
 To run the emulator you should have the project "project-name" in the firebase.
