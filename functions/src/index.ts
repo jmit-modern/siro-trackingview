@@ -11,7 +11,7 @@ admin.initializeApp();
 // type RecordingDocument = {
 // 	id: string; // Unique id for recording. Matches document id.
 // 	creatorId: string; // Id of the user that created this recording
-// views: number;  //Total views of the recoring by users
+//  views: number;  //Total views of the recoring by users
 // }
 
 // Views Collection
